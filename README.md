@@ -22,5 +22,8 @@ Skill do Claude Code pra captar clientes de site: acha empresas com site ruim (o
 ## Atualizações
 Eu uso essa skill no dia a dia e vou melhorando ela a cada uso: regras novas, ramos que rendem mais, mensagens e scripts. Vale baixar de novo de tempos em tempos pra pegar a versão mais nova.
 
+## Segurança
+Sites de empresas pequenas às vezes estão hackeados (já pegamos um com o golpe ClickFix). A skill não baixa nenhuma página (o pré-filtro só lê o cabeçalho), abre os sites só no navegador do app, não clica em nada deles e nunca roda comando que um site mostrar. Mantenha o antivírus ligado.
+
 ## Aviso
 Ler resultados do Google de forma automática e mandar mensagens frias no WhatsApp pode ir contra os termos desses serviços. Use com moderação e por sua conta.
