@@ -168,4 +168,4 @@ O que já rendeu (teste no interior de SP, ~300 sites):
 - **Do zero:** buffet infantil em cidade média, doceria forte no Instagram, móveis planejados.
 - Cidade média do interior rende mais que capital e cidades grandes (saturadas).
 
-**Variar os ramos (sempre):** começar pelos que rendem, mas misturar outros tipos de negócio local (açougue, padaria, pet shop, oficina, autopeças, material de construção, vidraçaria, clínica veterinária, auto escola, gráfica...). Nenhum ramo passa de ~1/3 da lista: lista de um tipo só capta mal. Ir trocando de ramo e de cidade/bairro a cada busca.
+**Variar os ramos (sempre):** começar pelos que rendem, mas misturar outros tipos de negócio local (açougue, padaria, pet shop, oficina, autopeças, material de construção, vidraçaria, clínica veterinária, auto escola, gráfica...). Nenhum ramo passa de ~1/3 da lista: lista de um tipo só capta mal. Ir trocando de ramo e de cidade/bairro a cada busca. **Variar as cidades também:** nenhuma cidade passa de ~1/4 da lista, mesmo quando o usuário pede uma região (ex.: "São Paulo" = misturar capital, Grande SP e cidades do interior).
