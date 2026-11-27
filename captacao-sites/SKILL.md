@@ -85,6 +85,8 @@ Em 21/11 um site de contabilidade tinha o golpe ClickFix escondido e o Defender 
 5. **Anotar na hora:** `python scripts/add.py "PASTA/Leads analisados.md" "Empresa;Cidade;Telefone;Site;Veredito;Defeito"`.
 6. Parar ao chegar no número pedido **de aprovados**. Se o ramo render pouco, trocar de ramo ou cidade e avisar em 1 linha.
 7. Mostrar **só os aprovados**, separados em **Muito ruim**, **Ruim** e **Médio** (reformar) ou "Bom lead" (do zero), 1 linha de motivo cada.
+8. **Dividir em lotes** (quando o usuário pedir, ex.: pra dar leads a amigos): lotes do mesmo tamanho e **equilibrados** (Muito ruim, Ruim e Médio distribuídos um a um entre os lotes). Salvar uma nota com as tabelas e exportar cada lote em CSV (`;`, UTF-8 com BOM, abre no Excel) numa pasta em `Downloads`, com um LEIA-ME curto. Suspeitos, casos especiais, Wix e fora do ar não entram.
+   **Conferência rápida pelo código** (quando o print sai pequeno): no site aberto, ler título, descrição, largura da página (`scrollWidth` > 375 no celular = não cabe), ano do rodapé, imagens quebradas visíveis e gerador (Wix). Só vale como prova o que esses dados mostram.
 
 ### Etapa 2: Aprovação
 O usuário aprova a lista e as **3 primeiras mensagens do dia**. Depois sigo o mesmo padrão.
